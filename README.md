@@ -8,7 +8,3 @@ Models for image classification, natural language processing, and more.
 Demonstrations of TensorFlow/Keras's and PyTorch's powerful capabilities.
 Helpful documentation and comments for easy understanding.
 Ideal for learning, experimentation, and building upon for your projects.
-
-
-[alt Text](image.jpg)
-
