@@ -19,8 +19,6 @@ import time
 import os
 import copy
 
-!unzip pizza_steak_sushi.zip
-
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
 mean = np.array([0.5, 0.5, 0.5])
